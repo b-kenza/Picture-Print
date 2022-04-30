@@ -3,4 +3,5 @@ https://bkenza-blip.github.io/Picture-Print/
 
 ## Subheader 
 
-Some addition test text.
+Some additional test text.
+some more text.
